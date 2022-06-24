@@ -6,8 +6,9 @@ My name is Augusto Parisot (hence aparisot) and here are some things about me:
 - 🔭 I’m currently working on malware analysis in sandbox envirnoments
 - 🌱 I’m currently learning malware detection with Machine Learning in python
 - 🎓 I graduated from Fluminense Federal University Computer Institute
-- 🎓 I graduated from Brazil´s Naval Accademy
+- 🎓 I graduated from Brazilian Naval Accademy
 - 💻 I love  writing code and malware analysis and learn anythings about it 
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: contact me on aparisot@id.uff.br
 - 📝 <a href="http://lattes.cnpq.br/3689498761565289" target="_blank">Resume</a><br>
   
