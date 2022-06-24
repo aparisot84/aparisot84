@@ -45,7 +45,8 @@ My name is Augusto Parisot (hence aparisot) and here are some things about me:
 <div width="100%" align="center">
   <a align="left" href="https://github.com/aparisot84/Sandbox-Ransomware-Analysis-Dataset" title="Montagem de Dataset para Detecção de Ataques de Ransomware: Desafios e Soluções">
     <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=aparisot84&repo=Sandbox-Ransomware-Analysis-Dataset&theme=nightowl&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/aparisot84/Letras-e-Numeros" title="Letras e Números"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=aparisot84&repo=Letras-e-Numeros&theme=nightowl&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/aparisot84/Letras-e-Numeros" title="Letras e Números">
+    <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=aparisot84&repo=Letras-e-Numeros&theme=nightowl&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
