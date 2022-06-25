@@ -50,7 +50,7 @@ My name is Augusto Parisot (hence aparisot) and here are some things about me:
     <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=aparisot84&repo=Letras-e-Numeros&theme=nightowl&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<!--<div width="100%" align="center">-->
+<div width="100%" align="center">
   <a align="left" href="https://github.com/aparisot84/Hangman" title="Hangman">
     <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=aparisot84&repo=Hangman&theme=nightowl&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/aparisot84/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br" title="Guia de sobrevivência Pós Graduação IC UFF">
