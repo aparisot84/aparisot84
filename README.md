@@ -9,7 +9,7 @@ My name is Augusto Parisot (hence aparisot) and here are some things about me:
 - 🎓 I graduated from Brazilian Naval Accademy
 - 💻 I love  writing code and malware analysis and learn anythings about it 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: contact me on aparisot@id.uff.br
+- 📫 How to reach me: aparisot@id.uff.br
 - 📝 <a href="http://lattes.cnpq.br/3689498761565289" target="_blank">Resume</a><br>
   
   
@@ -48,6 +48,13 @@ My name is Augusto Parisot (hence aparisot) and here are some things about me:
     <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=aparisot84&repo=Sandbox-Ransomware-Analysis-Dataset&theme=nightowl&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/aparisot84/Letras-e-Numeros" title="Letras e Números">
     <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=aparisot84&repo=Letras-e-Numeros&theme=nightowl&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/aparisot84/Hangman" title="Hangman">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=aparisot84&repo=Hangman&theme=nightowl&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/aparisot84/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br" title="Guia de sobrevivência Pós Graduação IC UFF">
+    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=aparisot84&repo=guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br&theme=nightowl&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
